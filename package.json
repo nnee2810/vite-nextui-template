@@ -13,10 +13,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@iconify-icon/react": "^2.1.0",
+    "@iconify/react": "^5.0.2",
     "@nextui-org/react": "^2.4.1",
     "@tanstack/react-query": "^5.44.0",
     "@tanstack/react-query-devtools": "^5.44.0",
+    "ag-grid-community": "^32.1.0",
+    "ag-grid-react": "^32.1.0",
     "axios": "^1.7.2",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.11",
