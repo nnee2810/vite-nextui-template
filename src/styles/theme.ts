@@ -2,16 +2,16 @@ import { NextUIPluginConfig, ThemeColors } from "@nextui-org/react"
 
 export const colors: Partial<ThemeColors> = {
   primary: {
-    100: "#FCDED1",
-    200: "#FAB7A5",
-    300: "#F18576",
-    400: "#E35652",
-    500: "#D1202B",
-    600: "#B3172F",
-    700: "#961030",
-    800: "#790A2E",
-    900: "#64062D",
-    DEFAULT: "#D1202B",
+    100: "#ADEFD5",
+    200: "#82E1BD",
+    300: "#57D1A4",
+    400: "#2BBE8A",
+    500: "#00A76F",
+    600: "#009661",
+    700: "#008353",
+    800: "#006D44",
+    900: "#005534",
+    DEFAULT: "#00A76F",
   },
 }
 
